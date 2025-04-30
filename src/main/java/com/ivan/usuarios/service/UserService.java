@@ -11,12 +11,12 @@ public class UserService {
 
     public List<User> getUsuarios() {
         return Arrays.asList(
-                new User("Geime", "Lopez", "Luis16@gmail.com"),
-                new User("Sonia", "Ábrego", "Luis16@gmail.com"),
-                new User("Luis", "Ábrego", "Luis16@gmail.com"),
-                new User("Bryan", "Pineda", "Luis16@gmail.com"),
-                new User("Wendy", "Ayala", "Luis16@gmail.com"),
-                new User("Ivan", "Membreño", "Luis16@gmail.com")
+                new User("Geime", "Lopez", "geime69@hotmail.com"),
+                new User("Sonia", "Ábrego", "sonia1@gmail.com"),
+                new User("Luis", "Ábrego", null),
+                new User("Bryan", "Pineda", null),
+                new User("Wendy", "Ayala", "bryan5@gmail.com"),
+                new User("Ivan", "Membreño", null)
         );
     }
 }

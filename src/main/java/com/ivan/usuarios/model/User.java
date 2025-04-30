@@ -11,7 +11,6 @@ public class User {
         this.correo = correo;
     }
 
-    // Getters
     public String getNombre() { return nombre; }
     public String getApellido() { return apellido; }
     public String getCorreo() { return correo; }
