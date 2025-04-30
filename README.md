@@ -41,11 +41,12 @@ Haz clic derecho sobre él y selecciona **Run** "UsuariosThymeleafApplicationTes
 
 Espera a que arranque el servidor Spring Boot
 
-![Screenshot 2025-04-30 145034](https://github.com/user-attachments/assets/de91f409-0ab6-42c7-8376-ebbf65e4de75)
+![Screenshot 2025-04-30 145123](https://github.com/user-attachments/assets/55a8a51f-dc92-4959-a661-2e4b5ae272b1)
 
 Abre tu navegador y coloca: http://localhost:8080/usuarios
 
-![Screenshot 2025-04-30 145034](https://github.com/user-attachments/assets/72e27529-d6fc-4da2-8a6a-1546db74b16b)
+![Screenshot 2025-04-30 145159](https://github.com/user-attachments/assets/0b6d087d-a828-435b-91e9-967e95b89165)
+
 
 ------------
 
