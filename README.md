@@ -1,4 +1,4 @@
-#  Lista de Usuarios con pring Boot y Thymeleaf
+#  Lista de Usuarios con Spring Boot y Thymeleaf
 
 Este proyecto es una aplicación web desarrollada con **Spring Boot 3.4.5** y **Thymeleaf**, que muestra una lista simulada de usuarios con opción de filtrado en una interfaz moderna y responsiva.
 
@@ -40,9 +40,11 @@ Haz clic derecho sobre él y selecciona **Run** "UsuariosThymeleafApplicationTes
 ![Screenshot 2025-04-30 145034](https://github.com/user-attachments/assets/cd6afa8f-6d76-4bdb-9eac-84e3d3d29a39)
 
 Espera a que arranque el servidor Spring Boot
+
 ![Screenshot 2025-04-30 145034](https://github.com/user-attachments/assets/de91f409-0ab6-42c7-8376-ebbf65e4de75)
 
 Abre tu navegador y coloca: http://localhost:8080/usuarios
+
 ![Screenshot 2025-04-30 145034](https://github.com/user-attachments/assets/72e27529-d6fc-4da2-8a6a-1546db74b16b)
 
 ------------
